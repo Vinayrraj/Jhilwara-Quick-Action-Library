@@ -1,4 +1,4 @@
-package net.londatiga.android;
+package com.jhilwara.quickaction;
 
 import android.graphics.drawable.Drawable;
 import android.graphics.Bitmap;
